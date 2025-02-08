@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/the-experts-website/static/css/main.950d344f.css",
-    "main.js": "/the-experts-website/static/js/main.808ad07d.js",
-    "static/media/slick.svg": "/the-experts-website/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/the-experts-website/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/the-experts-website/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/the-experts-website/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/the-experts-website/index.html",
-    "main.950d344f.css.map": "/the-experts-website/static/css/main.950d344f.css.map",
-    "main.808ad07d.js.map": "/the-experts-website/static/js/main.808ad07d.js.map"
+    "main.css": "/the-experts-/static/css/main.20b5db6d.css",
+    "main.js": "/the-experts-/static/js/main.15a83aec.js",
+    "static/media/slick.svg": "/the-experts-/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/the-experts-/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/the-experts-/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/the-experts-/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/the-experts-/index.html",
+    "main.20b5db6d.css.map": "/the-experts-/static/css/main.20b5db6d.css.map",
+    "main.15a83aec.js.map": "/the-experts-/static/js/main.15a83aec.js.map"
   },
   "entrypoints": [
-    "static/css/main.950d344f.css",
-    "static/js/main.808ad07d.js"
+    "static/css/main.20b5db6d.css",
+    "static/js/main.15a83aec.js"
   ]
 }
